@@ -1,3 +1,4 @@
 /__pycache__
 configure.py
 /.venv_transit
+.DS_Store
